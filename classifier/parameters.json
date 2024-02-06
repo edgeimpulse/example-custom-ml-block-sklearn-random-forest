@@ -1,0 +1,7 @@
+[{
+    "name": "Num. estimators",
+    "value": "10",
+    "type": "int",
+    "help": "The number of trees in the forest.",
+    "param": "num-estimators"
+}]

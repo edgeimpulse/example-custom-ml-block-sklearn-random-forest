@@ -1,0 +1,5 @@
+.DS_Store
+data/
+out/
+model.txt
+.ei-block-config
